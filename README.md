@@ -18,7 +18,7 @@ This project makes it possible to access a single physical webcam from two or mo
 
 - By sending [`OBS`](https://obsproject.com/)'s output to a virtual video device with [`obs-v4l2sink`](https://github.com/CatxFish/obs-v4l2sink) plugin, you can use the output as a webcam.
 
-This project handles the former case.
+This project handles the former case though the example in [Example](#example) applies the both cases.
 
 ## Usage
 
