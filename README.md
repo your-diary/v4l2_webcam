@@ -58,6 +58,8 @@ While a physical webcam can be accessed only from a single process at a time, **
 
 - OBS
 
+- Zoom
+
 ## Q&A
 
 - Q. My webcam has unexpectedly low FPS (e.g. 5 FPS). How can I heighten the fps?
